@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Android 12+. Voice notes are private: never uploaded to cloud backups,
+     but still copied in a direct phone-to-phone transfer. -->
+<data-extraction-rules>
+    <cloud-backup>
+        <exclude domain="file" path="voice_notes/" />
+    </cloud-backup>
+</data-extraction-rules>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory
+        app:iconSpaceReserved="false"
+        app:title="@string/settings_category_speech">
+
+        <ListPreference
+            app:iconSpaceReserved="false"
+            app:key="speech_output"
+            app:title="@string/settings_speech_output" />
+
+        <ListPreference
+            app:defaultValue="auto"
+            app:iconSpaceReserved="false"
+            app:key="language_code"
+            app:title="@string/settings_language_label"
+            app:useSimpleSummaryProvider="true" />
+
+        <SwitchPreferenceCompat
+            app:defaultValue="true"
+            app:iconSpaceReserved="false"
+            app:key="autoplay_voice"
+            app:title="@string/settings_autoplay" />
+
+        <SwitchPreferenceCompat
+            app:defaultValue="true"
+            app:iconSpaceReserved="false"
+            app:key="vibrate"
+            app:title="@string/settings_vibrate" />
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        app:iconSpaceReserved="false"
+        app:title="@string/settings_category_voice_notes">
+
+        <Preference
+            app:iconSpaceReserved="false"
+            app:key="voice_notes_info"
+            app:selectable="false"
+            app:summary="@string/settings_voice_notes_privacy" />
+
+        <Preference
+            app:iconSpaceReserved="false"
+            app:key="export_voice_notes"
+            app:summary="@string/settings_export_summary"
+            app:title="@string/settings_export" />
+
+        <Preference
+            app:iconSpaceReserved="false"
+            app:key="import_voice_notes"
+            app:summary="@string/settings_import_summary"
+            app:title="@string/settings_import" />
+    </PreferenceCategory>
+</PreferenceScreen>

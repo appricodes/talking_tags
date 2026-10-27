@@ -1,0 +1,26 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+# Release-signing secrets and Play credentials — never commit.
+keystore.properties
+*.jks
+*.p12
+*.keystore
+play-release-key.json
+# Build outputs and signing artefacts
+/app/release/
+*.aab
+*.apk
+upload_certificate.pem

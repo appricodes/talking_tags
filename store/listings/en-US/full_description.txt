@@ -1,0 +1,25 @@
+Turn your physical world into a talking library with Talking Tags.
+Talking Tags is an accessibility tool designed to help blind and visually impaired users easily identify everyday objects using NFC technology. Simply scan an NFC tag, dictate a label using your voice, and the app will store it. The next time you scan the tag, your device will read the label back to you.
+No more guessing what’s in that can, which bottle holds the shampoo, or which folder contains your tax documents. Just tap, speak, and remember.
+Key Features:
+• Voice-Powered Labeling: No need to type. Just press the microphone button, speak your description, and the app converts your voice to text automatically.
+• Instant Identification: Scan any programmed tag to instantly see and hear its content (compatible with TalkBack and other screen readers).
+• Seamless Read & Write: Easily toggle between "Read" mode to check tags and "Write" mode to create new labels.
+• Tag Management: Scan a tag to edit its text or delete it completely to reuse the tag.
+• Date Stamping: Automatically adds a timestamp to every tag so you know exactly when you labeled it.
+• Multilingual Support: Supports voice recognition in dozens of languages—configure your preferred language in Settings.
+How It Works:
+1. Stick: Place an inexpensive NFC sticker/tag on an object (e.g., a food container, medicine box, or clothing tag).
+2. Speak: Open Talking Tags, tap the "Write" button, and speak your description (e.g., "Tomato Soup, Expires Dec 2025").
+3. Scan: Touch your phone to the tag to save the text.
+4. Listen: Anytime you touch your phone to that tag afterwards, the app will display and announce the label.
+Who Is This For? Talking Tags is built specifically for:
+• Individuals who are blind or have low vision.
+• Seniors who want an easy way to organize medications or household items.
+• Anyone who wants to organize their home or office using voice-enabled smart tags.
+Requirements:
+• An Android device with NFC support.
+• Standard NFC tags (NTAG213, NTAG215, etc.).
+Permissions:
+• NFC: To read and write tags.
+Regain your independence and organize your world with Talking Tags.

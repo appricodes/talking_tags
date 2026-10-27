@@ -1,0 +1,142 @@
+<resources>
+    <string name="app_name">Talking Tags</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="desc_voice_input">Dictate text</string>
+    <string name="date_prefix">Written: %s</string>
+
+    <!-- Reading -->
+    <string name="status_scan_nfc">Hold an NFC tag near the back of your phone.</string>
+    <string name="status_nfc_off">NFC is turned off.</string>
+    <string name="btn_nfc_settings">Turn on NFC</string>
+    <string name="status_tag_read">Hold another tag near the phone to read it.</string>
+    <string name="status_empty_tag">Empty tag</string>
+    <string name="info_voice_note">Has a voice note.</string>
+    <string name="info_voice_missing">Has a voice note that is not on this phone. You can import it in Settings.</string>
+    <string name="info_foreign_data">Contains data from another app. Writing will replace it.</string>
+    <string name="info_locked">Locked: this tag can no longer be changed.</string>
+    <string name="info_not_ndef">This tag can\'t store text. You can still save a voice note for it.</string>
+    <string name="info_capacity">Capacity: %d bytes</string>
+    <string name="btn_replay">Play again</string>
+    <string name="btn_edit">Edit</string>
+    <string name="btn_add_content">Add text or voice note</string>
+    <string name="btn_delete_tag">Erase tag</string>
+    <string name="btn_lock">Lock tag</string>
+
+    <!-- Editing -->
+    <string name="status_enter_text">Type or dictate the text, then press Write tag.</string>
+    <string name="status_voice_only">This tag can\'t be changed, but you can record a voice note for it.</string>
+    <string name="status_finish_editing">Finish or cancel editing first.</string>
+    <string name="hint_enter_text">Text for the tag</string>
+    <string name="prompt_speech_input">Speak the text for the tag</string>
+    <string name="btn_clear_text">Clear all</string>
+    <string name="msg_text_cleared">Text cleared.</string>
+    <string name="text_capacity">%1$d of %2$d bytes used</string>
+    <string name="error_text_too_long">The text is too long for this tag. Please shorten it.</string>
+    <string name="error_nothing_to_write">Enter text or record a voice note first. To empty the tag, use Erase tag.</string>
+    <string name="voice_none">No voice note.</string>
+    <string name="voice_saved">This tag has a voice note.</string>
+    <string name="voice_new">New voice note recorded. It is kept when you save.</string>
+    <string name="voice_missing">This tag\'s voice note is not on this phone.</string>
+    <string name="voice_recording">Recording… %s</string>
+    <string name="btn_record">Record voice note</string>
+    <string name="btn_record_again">Record again</string>
+    <string name="btn_stop_recording">Stop recording</string>
+    <string name="btn_play_voice">Play voice note</string>
+    <string name="btn_remove_voice">Remove voice note</string>
+    <string name="btn_write_tag">Write tag</string>
+    <string name="btn_save_voice">Save voice note</string>
+    <string name="error_mic_permission">Recording needs the microphone permission. You can allow it in the app\'s system settings.</string>
+    <string name="error_recording">Recording failed.</string>
+    <string name="msg_recording_max">Maximum recording length reached.</string>
+    <string name="msg_voice_saved">Voice note saved.</string>
+    <string name="error_voice_link">This tag has no serial number, so the voice note can\'t be linked to it.</string>
+
+    <!-- Waiting for the tag -->
+    <string name="status_hold_to_write">Hold the same tag near the phone and keep it still to write.</string>
+    <string name="status_scan_delete">Hold the same tag near the phone to erase it.</string>
+    <string name="status_hold_to_lock">Hold the same tag near the phone to lock it.</string>
+    <string name="status_writing">Writing… keep the tag still.</string>
+    <string name="status_wrong_tag">Wrong tag! Please hold the original tag.</string>
+    <string name="msg_write_success">Saved to the tag.</string>
+    <string name="msg_tag_deleted">Tag erased.</string>
+    <string name="msg_locked">Tag locked.</string>
+    <string name="error_tag_lost">The tag moved away too soon. Hold it again and keep it still.</string>
+    <string name="error_write_failed">Writing failed. Hold the tag again.</string>
+    <string name="error_delete_failed">Erasing failed. Hold the tag again.</string>
+    <string name="error_lock_failed">Locking failed. Hold the tag again.</string>
+    <string name="error_too_large">The content does not fit on this tag.</string>
+    <string name="error_read_only">This tag is locked and can\'t be changed.</string>
+    <string name="error_not_supported">This tag doesn\'t support this.</string>
+    <string name="confirm_erase_title">Erase everything on this tag?</string>
+    <string name="confirm_erase_voice">Also delete its voice note from this phone</string>
+    <string name="btn_erase">Erase</string>
+    <string name="confirm_lock_title">Lock this tag permanently?</string>
+    <string name="confirm_lock_message">After locking, nobody can change or erase this tag again, not even you. This can\'t be undone.</string>
+    <string name="btn_lock_confirm">Lock permanently</string>
+
+    <string name="content_title">This tag contains</string>
+    <string name="content_line">%1$s: %2$s</string>
+    <string name="btn_show_contents">Show tag contents</string>
+    <string name="action_close">Close</string>
+    <string name="kind_web">Web address</string>
+    <string name="kind_phone">Phone number</string>
+    <string name="kind_email">Email address</string>
+    <string name="kind_sms">Text message to</string>
+    <string name="kind_location">Location</string>
+    <string name="kind_link">Link</string>
+    <string name="kind_wifi">Wi-Fi network</string>
+    <string name="kind_contact">Contact</string>
+    <string name="kind_app">Android app</string>
+    <string name="kind_text">Text</string>
+    <string name="kind_unknown">Unknown data</string>
+    <string name="action_open_browser">Open in browser</string>
+    <string name="action_open">Open</string>
+    <string name="action_call">Call</string>
+    <string name="action_email">Write email</string>
+    <string name="action_sms">Write message</string>
+    <string name="action_maps">Open in maps</string>
+    <string name="action_wifi_connect">Connect to network</string>
+    <string name="action_copy_password">Copy password</string>
+    <string name="action_add_contact">Add to contacts</string>
+    <string name="action_play_store">Show in Play Store</string>
+    <string name="action_copy">Copy</string>
+    <string name="msg_copied">Copied.</string>
+    <string name="error_no_app">No app found to do this.</string>
+    <string name="error_nfc_not_supported">NFC is not supported on this device.</string>
+    <string name="error_audio_play">Failed to play audio</string>
+    <string name="error_speech_not_supported">Speech input not supported</string>
+
+    <!-- Settings -->
+    <string name="settings_category_speech">Speech</string>
+    <string name="settings_speech_output">Read tags aloud with</string>
+    <string name="speech_output_default">System default voice</string>
+    <string name="speech_output_talkback">TalkBack (screen reader)</string>
+    <string name="settings_language_label">Voice Recognition Language</string>
+    <string name="lang_auto_detect">Auto Detect (System Default)</string>
+    <string name="settings_autoplay">Play voice notes automatically</string>
+    <string name="settings_vibrate">Vibrate on success and errors</string>
+    <string name="settings_category_voice_notes">Voice notes</string>
+    <string name="settings_voice_notes_privacy">Stored only inside the app and never included in cloud backups. Export a copy to keep them safe.</string>
+    <string name="settings_export">Export voice notes</string>
+    <string name="settings_export_summary">Save a copy as a ZIP file, for example in Downloads</string>
+    <string name="settings_import">Import voice notes</string>
+    <string name="settings_import_summary">Restore from an exported ZIP file or .m4a files</string>
+    <string name="msg_export_empty">There are no voice notes to export.</string>
+    <string name="msg_import_none">No voice notes found in the selected files.</string>
+    <string name="error_export_failed">Export failed.</string>
+    <string name="error_import_failed">Import failed.</string>
+    <plurals name="voice_notes_count">
+        <item quantity="one">%1$d voice note (%2$s)</item>
+        <item quantity="other">%1$d voice notes (%2$s)</item>
+    </plurals>
+    <plurals name="msg_export_done">
+        <item quantity="one">%d voice note exported.</item>
+        <item quantity="other">%d voice notes exported.</item>
+    </plurals>
+    <plurals name="msg_import_done">
+        <item quantity="one">%d voice note imported.</item>
+        <item quantity="other">%d voice notes imported.</item>
+    </plurals>
+</resources>

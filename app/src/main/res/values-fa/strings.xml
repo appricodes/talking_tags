@@ -1,0 +1,142 @@
+<resources>
+    <string name="app_name">Talking Tags</string>
+
+    <string name="action_settings">تنظیمات</string>
+    <string name="action_cancel">لغو</string>
+    <string name="desc_voice_input">گفتن متن</string>
+    <string name="date_prefix">نوشته‌شده در: %s</string>
+
+    <!-- خواندن -->
+    <string name="status_scan_nfc">یک تگ NFC را نزدیک پشت گوشی نگه دارید.</string>
+    <string name="status_nfc_off">NFC خاموش است.</string>
+    <string name="btn_nfc_settings">روشن کردن NFC</string>
+    <string name="status_tag_read">برای خواندن تگ دیگر، آن را نزدیک گوشی نگه دارید.</string>
+    <string name="status_empty_tag">تگ خالی است</string>
+    <string name="info_voice_note">یادداشت صوتی دارد.</string>
+    <string name="info_voice_missing">یادداشت صوتی دارد، اما فایل آن روی این گوشی نیست. می‌توانید آن را در تنظیمات وارد کنید.</string>
+    <string name="info_foreign_data">داده‌ای از برنامه‌ی دیگری دارد. با نوشتن، جایگزین می‌شود.</string>
+    <string name="info_locked">قفل است: این تگ دیگر قابل تغییر نیست.</string>
+    <string name="info_not_ndef">این تگ نمی‌تواند متن ذخیره کند، اما می‌توانید برایش یادداشت صوتی ذخیره کنید.</string>
+    <string name="info_capacity">ظرفیت: %d بایت</string>
+    <string name="btn_replay">پخش دوباره</string>
+    <string name="btn_edit">ویرایش</string>
+    <string name="btn_add_content">افزودن متن یا یادداشت صوتی</string>
+    <string name="btn_delete_tag">پاک کردن تگ</string>
+    <string name="btn_lock">قفل کردن تگ</string>
+
+    <!-- ویرایش -->
+    <string name="status_enter_text">متن را بنویسید یا بگویید، سپس «نوشتن روی تگ» را بزنید.</string>
+    <string name="status_voice_only">این تگ قابل تغییر نیست، اما می‌توانید برایش یادداشت صوتی ضبط کنید.</string>
+    <string name="status_finish_editing">ابتدا ویرایش را تمام یا لغو کنید.</string>
+    <string name="hint_enter_text">متن تگ</string>
+    <string name="prompt_speech_input">متن مربوط به تگ را بگویید</string>
+    <string name="btn_clear_text">پاک کردن همه</string>
+    <string name="msg_text_cleared">متن پاک شد.</string>
+    <string name="text_capacity">%1$d از %2$d بایت استفاده شده</string>
+    <string name="error_text_too_long">متن برای این تگ خیلی طولانی است. لطفاً آن را کوتاه‌تر کنید.</string>
+    <string name="error_nothing_to_write">ابتدا متنی وارد کنید یا یادداشت صوتی ضبط کنید. برای خالی کردن تگ از «پاک کردن تگ» استفاده کنید.</string>
+    <string name="voice_none">یادداشت صوتی ندارد.</string>
+    <string name="voice_saved">این تگ یادداشت صوتی دارد.</string>
+    <string name="voice_new">یادداشت صوتی جدید ضبط شد. با ذخیره کردن نگه داشته می‌شود.</string>
+    <string name="voice_missing">یادداشت صوتی این تگ روی این گوشی نیست.</string>
+    <string name="voice_recording">در حال ضبط… %s</string>
+    <string name="btn_record">ضبط یادداشت صوتی</string>
+    <string name="btn_record_again">ضبط دوباره</string>
+    <string name="btn_stop_recording">توقف ضبط</string>
+    <string name="btn_play_voice">پخش یادداشت صوتی</string>
+    <string name="btn_remove_voice">حذف یادداشت صوتی</string>
+    <string name="btn_write_tag">نوشتن روی تگ</string>
+    <string name="btn_save_voice">ذخیره‌ی یادداشت صوتی</string>
+    <string name="error_mic_permission">برای ضبط، اجازه‌ی دسترسی به میکروفون لازم است. می‌توانید آن را در تنظیمات سیستمی برنامه بدهید.</string>
+    <string name="error_recording">ضبط انجام نشد.</string>
+    <string name="msg_recording_max">به حداکثر زمان ضبط رسیدید.</string>
+    <string name="msg_voice_saved">یادداشت صوتی ذخیره شد.</string>
+    <string name="error_voice_link">این تگ شماره‌ی سریال ندارد، پس یادداشت صوتی به آن متصل نمی‌شود.</string>
+
+    <!-- انتظار برای تگ -->
+    <string name="status_hold_to_write">برای نوشتن، همان تگ را نزدیک گوشی نگه دارید و تکان ندهید.</string>
+    <string name="status_scan_delete">برای پاک کردن، همان تگ را نزدیک گوشی نگه دارید.</string>
+    <string name="status_hold_to_lock">برای قفل کردن، همان تگ را نزدیک گوشی نگه دارید.</string>
+    <string name="status_writing">در حال نوشتن… تگ را تکان ندهید.</string>
+    <string name="status_wrong_tag">تگ اشتباه است! لطفاً همان تگ قبلی را نگه دارید.</string>
+    <string name="msg_write_success">روی تگ ذخیره شد.</string>
+    <string name="msg_tag_deleted">تگ پاک شد.</string>
+    <string name="msg_locked">تگ قفل شد.</string>
+    <string name="error_tag_lost">تگ زود دور شد. دوباره آن را نگه دارید و تکان ندهید.</string>
+    <string name="error_write_failed">نوشتن انجام نشد. دوباره تگ را نگه دارید.</string>
+    <string name="error_delete_failed">پاک کردن انجام نشد. دوباره تگ را نگه دارید.</string>
+    <string name="error_lock_failed">قفل کردن انجام نشد. دوباره تگ را نگه دارید.</string>
+    <string name="error_too_large">محتوا در این تگ جا نمی‌شود.</string>
+    <string name="error_read_only">این تگ قفل است و قابل تغییر نیست.</string>
+    <string name="error_not_supported">این تگ از این کار پشتیبانی نمی‌کند.</string>
+    <string name="confirm_erase_title">همه‌چیز روی این تگ پاک شود؟</string>
+    <string name="confirm_erase_voice">یادداشت صوتی آن هم از این گوشی حذف شود</string>
+    <string name="btn_erase">پاک کردن</string>
+    <string name="confirm_lock_title">این تگ برای همیشه قفل شود؟</string>
+    <string name="confirm_lock_message">پس از قفل شدن، هیچ‌کس، حتی خود شما، نمی‌تواند این تگ را تغییر دهد یا پاک کند. این کار برگشت‌پذیر نیست.</string>
+    <string name="btn_lock_confirm">قفل دائمی</string>
+
+    <string name="content_title">این تگ شامل این موارد است</string>
+    <string name="content_line">%1$s: %2$s</string>
+    <string name="btn_show_contents">نمایش محتوای تگ</string>
+    <string name="action_close">بستن</string>
+    <string name="kind_web">نشانی وب</string>
+    <string name="kind_phone">شماره تلفن</string>
+    <string name="kind_email">نشانی ایمیل</string>
+    <string name="kind_sms">پیامک به</string>
+    <string name="kind_location">مکان</string>
+    <string name="kind_link">پیوند</string>
+    <string name="kind_wifi">شبکه‌ی Wi-Fi</string>
+    <string name="kind_contact">مخاطب</string>
+    <string name="kind_app">برنامه‌ی اندروید</string>
+    <string name="kind_text">متن</string>
+    <string name="kind_unknown">داده‌ی ناشناخته</string>
+    <string name="action_open_browser">باز کردن در مرورگر</string>
+    <string name="action_open">باز کردن</string>
+    <string name="action_call">تماس</string>
+    <string name="action_email">نوشتن ایمیل</string>
+    <string name="action_sms">نوشتن پیامک</string>
+    <string name="action_maps">باز کردن در نقشه</string>
+    <string name="action_wifi_connect">اتصال به شبکه</string>
+    <string name="action_copy_password">کپی رمز عبور</string>
+    <string name="action_add_contact">افزودن به مخاطبین</string>
+    <string name="action_play_store">نمایش در Play Store</string>
+    <string name="action_copy">کپی</string>
+    <string name="msg_copied">کپی شد.</string>
+    <string name="error_no_app">برنامه‌ای برای انجام این کار پیدا نشد.</string>
+    <string name="error_nfc_not_supported">NFC در این دستگاه پشتیبانی نمی‌شود.</string>
+    <string name="error_audio_play">پخش صدا انجام نشد</string>
+    <string name="error_speech_not_supported">ورودی صوتی پشتیبانی نمی‌شود</string>
+
+    <!-- تنظیمات -->
+    <string name="settings_category_speech">گفتار</string>
+    <string name="settings_speech_output">خواندن تگ‌ها با</string>
+    <string name="speech_output_default">صدای پیش‌فرض سیستم</string>
+    <string name="speech_output_talkback">TalkBack (صفحه‌خوان)</string>
+    <string name="settings_language_label">زبان تشخیص گفتار</string>
+    <string name="lang_auto_detect">تشخیص خودکار (پیش‌فرض سیستم)</string>
+    <string name="settings_autoplay">پخش خودکار یادداشت‌های صوتی</string>
+    <string name="settings_vibrate">لرزش هنگام موفقیت و خطا</string>
+    <string name="settings_category_voice_notes">یادداشت‌های صوتی</string>
+    <string name="settings_voice_notes_privacy">فقط داخل برنامه نگهداری می‌شوند و هرگز در پشتیبان ابری قرار نمی‌گیرند. برای حفظ آن‌ها یک نسخه خروجی بگیرید.</string>
+    <string name="settings_export">خروجی گرفتن از یادداشت‌های صوتی</string>
+    <string name="settings_export_summary">ذخیره‌ی یک نسخه به‌صورت فایل ZIP، مثلاً در پوشه‌ی Download</string>
+    <string name="settings_import">وارد کردن یادداشت‌های صوتی</string>
+    <string name="settings_import_summary">بازگردانی از فایل ZIP خروجی یا فایل‌های ‎.m4a</string>
+    <string name="msg_export_empty">یادداشت صوتی‌ای برای خروجی گرفتن وجود ندارد.</string>
+    <string name="msg_import_none">در فایل‌های انتخاب‌شده یادداشت صوتی‌ای پیدا نشد.</string>
+    <string name="error_export_failed">خروجی گرفتن انجام نشد.</string>
+    <string name="error_import_failed">وارد کردن انجام نشد.</string>
+    <plurals name="voice_notes_count">
+        <item quantity="one">%1$d یادداشت صوتی (%2$s)</item>
+        <item quantity="other">%1$d یادداشت صوتی (%2$s)</item>
+    </plurals>
+    <plurals name="msg_export_done">
+        <item quantity="one">%d یادداشت صوتی خروجی گرفته شد.</item>
+        <item quantity="other">%d یادداشت صوتی خروجی گرفته شد.</item>
+    </plurals>
+    <plurals name="msg_import_done">
+        <item quantity="one">%d یادداشت صوتی وارد شد.</item>
+        <item quantity="other">%d یادداشت صوتی وارد شد.</item>
+    </plurals>
+</resources>
