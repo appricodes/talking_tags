@@ -52,4 +52,35 @@
             app:summary="@string/settings_import_summary"
             app:title="@string/settings_import" />
     </PreferenceCategory>
+
+    <PreferenceCategory
+        app:iconSpaceReserved="false"
+        app:title="@string/settings_category_about">
+
+        <Preference
+            app:iconSpaceReserved="false"
+            app:key="about_privacy"
+            app:title="@string/about_privacy" />
+
+        <Preference
+            app:iconSpaceReserved="false"
+            app:key="about_imprint"
+            app:title="@string/about_imprint" />
+
+        <Preference
+            app:iconSpaceReserved="false"
+            app:key="about_licenses"
+            app:title="@string/about_licenses" />
+
+        <Preference
+            app:iconSpaceReserved="false"
+            app:key="about_source"
+            app:summary="@string/about_source_summary"
+            app:title="@string/about_source" />
+
+        <Preference
+            app:iconSpaceReserved="false"
+            app:key="about_version"
+            app:selectable="false" />
+    </PreferenceCategory>
 </PreferenceScreen>

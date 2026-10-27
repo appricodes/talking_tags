@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Legal facts and addresses: identical in every language. Keep in sync with PRIVACY.md. -->
+<resources>
+    <string name="imprint_operator_value" translatable="false">Mohammad Amiri Moalla</string>
+    <string name="imprint_address_value" translatable="false">Schütenhofstraße 21, 47800 Krefeld, Germany</string>
+    <string name="imprint_contact_value" translatable="false">amiri.moalla@gmail.com</string>
+    <string name="about_source_summary" translatable="false">github.com/appricodes/talking_tags</string>
+</resources>

@@ -66,6 +66,11 @@
             android:exported="false"
             android:label="@string/action_settings"
             android:parentActivityName=".MainActivity" />
+
+        <activity
+            android:name=".InfoActivity"
+            android:exported="false"
+            android:parentActivityName=".SettingsActivity" />
     </application>
 
 </manifest>

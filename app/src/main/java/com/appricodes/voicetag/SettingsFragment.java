@@ -79,6 +79,27 @@ public class SettingsFragment extends PreferenceFragmentCompat {
 			});
 			return true;
 		});
+		setupAbout();
+	}
+
+	private void setupAbout() {
+		requirePreference("about_privacy").setOnPreferenceClickListener(p -> {
+			startActivity(InfoActivity.intent(requireContext(), InfoActivity.PAGE_PRIVACY));
+			return true;
+		});
+		requirePreference("about_imprint").setOnPreferenceClickListener(p -> {
+			startActivity(InfoActivity.intent(requireContext(), InfoActivity.PAGE_IMPRINT));
+			return true;
+		});
+		requirePreference("about_licenses").setOnPreferenceClickListener(p -> {
+			startActivity(InfoActivity.intent(requireContext(), InfoActivity.PAGE_LICENSES));
+			return true;
+		});
+		requirePreference("about_source").setOnPreferenceClickListener(p -> {
+			InfoActivity.openUrl(requireContext(), InfoActivity.URL_PROJECT);
+			return true;
+		});
+		requirePreference("about_version").setTitle(getString(R.string.about_version, BuildConfig.VERSION_NAME));
 	}
 
 	@Override
