@@ -5,6 +5,13 @@
     <string name="desc_voice_input">Продиктовать текст</string>
     <string name="date_prefix">Записано: %s</string>
     <string name="status_scan_nfc">Поднесите NFC-метку к задней стороне телефона.</string>
+    <string name="intro_title">Метки, которые можно услышать</string>
+    <string name="intro_step_read">Поднесите метку к задней стороне телефона. Её текст будет прочитан вслух, а голосовая заметка воспроизведена.</string>
+    <string name="intro_step_write">Чтобы подписать предмет, поднесите к телефону пустую NFC-наклейку, затем введите, продиктуйте или запишите, что она должна сказать.</string>
+    <string name="intro_step_other">Метки других приложений, например веб-ссылки или Wi‑Fi, сначала описываются. Ничего не откроется, пока вы не нажмёте кнопку.</string>
+    <string name="intro_tags_hint">Работает со стандартными NFC-наклейками, картами и брелоками, например NTAG213, NTAG215 и NTAG216.</string>
+    <string name="btn_demo">Прослушать пример</string>
+    <string name="demo_text">Пример метки: кофе в зёрнах. Открыт в понедельник.</string>
     <string name="status_nfc_off">NFC выключен.</string>
     <string name="btn_nfc_settings">Включить NFC</string>
     <string name="status_tag_read">Чтобы прочитать другую метку, поднесите её к телефону.</string>

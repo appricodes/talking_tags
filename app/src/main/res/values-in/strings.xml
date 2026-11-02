@@ -5,6 +5,13 @@
     <string name="desc_voice_input">Diktekan teks</string>
     <string name="date_prefix">Ditulis: %s</string>
     <string name="status_scan_nfc">Dekatkan tag NFC ke bagian belakang ponsel.</string>
+    <string name="intro_title">Label yang bisa didengar</string>
+    <string name="intro_step_read">Dekatkan tag ke bagian belakang ponsel. Teksnya dibacakan dan memo suaranya diputar.</string>
+    <string name="intro_step_write">Untuk memberi label, dekatkan stiker NFC kosong ke ponsel, lalu ketik, diktekan, atau rekam apa yang harus diucapkannya.</string>
+    <string name="intro_step_other">Tag dari aplikasi lain, seperti link web atau Wi‑Fi, dijelaskan terlebih dahulu. Tidak ada yang terbuka sampai Anda mengetuk tombol.</string>
+    <string name="intro_tags_hint">Berfungsi dengan stiker, kartu, dan gantungan kunci NFC standar, seperti NTAG213, NTAG215, dan NTAG216.</string>
+    <string name="btn_demo">Dengarkan contoh</string>
+    <string name="demo_text">Contoh tag: Biji kopi. Dibuka hari Senin.</string>
     <string name="status_nfc_off">NFC nonaktif.</string>
     <string name="btn_nfc_settings">Aktifkan NFC</string>
     <string name="status_tag_read">Dekatkan tag lain ke ponsel untuk membacanya.</string>

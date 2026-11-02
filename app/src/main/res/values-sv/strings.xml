@@ -5,6 +5,13 @@
     <string name="desc_voice_input">Diktera text</string>
     <string name="date_prefix">Skriven: %s</string>
     <string name="status_scan_nfc">Håll en NFC-tagg mot baksidan av telefonen.</string>
+    <string name="intro_title">Etiketter du kan höra</string>
+    <string name="intro_step_read">Håll en tagg mot telefonens baksida. Texten läses upp och röstanteckningen spelas upp.</string>
+    <string name="intro_step_write">För att märka något håller du en tom NFC-etikett mot telefonen och skriver, dikterar eller spelar in vad den ska säga.</string>
+    <string name="intro_step_other">Taggar från andra appar, som webblänkar eller wifi, beskrivs först. Inget öppnas förrän du trycker på en knapp.</string>
+    <string name="intro_tags_hint">Fungerar med vanliga NFC-etiketter, kort och nyckelbrickor, till exempel NTAG213, NTAG215 och NTAG216.</string>
+    <string name="btn_demo">Lyssna på ett exempel</string>
+    <string name="demo_text">Exempeltagg: kaffebönor. Öppnad på måndag.</string>
     <string name="status_nfc_off">NFC är avstängt.</string>
     <string name="btn_nfc_settings">Slå på NFC</string>
     <string name="status_tag_read">Håll en annan tagg mot telefonen för att läsa den.</string>

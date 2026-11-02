@@ -143,6 +143,8 @@ public class MainActivity extends AppCompatActivity implements NfcAdapter.Reader
 
 	private void setupButtons() {
 		binding.btnNfcSettings.setOnClickListener(v -> openNfcSettings());
+		// Lets people without a tag at hand hear how a tag is read out
+		binding.btnDemo.setOnClickListener(v -> feedback.speak(getString(R.string.demo_text), null, null));
 		binding.btnReplay.setOnClickListener(v -> presentContent(currentTag, true));
 		binding.btnShowContents.setOnClickListener(v -> showContentsDialog(currentTag));
 		binding.btnEdit.setOnClickListener(v -> enterCompose());
@@ -916,6 +918,7 @@ public class MainActivity extends AppCompatActivity implements NfcAdapter.Reader
 	}
 
 	private void render() {
+		binding.layoutIntro.setVisibility(state == State.IDLE ? View.VISIBLE : View.GONE);
 		binding.layoutTag.setVisibility(state == State.SHOWING ? View.VISIBLE : View.GONE);
 		binding.layoutCompose.setVisibility(state == State.COMPOSE ? View.VISIBLE : View.GONE);
 		boolean canGoBack = state != State.IDLE && state != State.SHOWING;

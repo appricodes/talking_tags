@@ -5,6 +5,13 @@
     <string name="desc_voice_input">Đọc chính tả</string>
     <string name="date_prefix">Ghi lúc: %s</string>
     <string name="status_scan_nfc">Đưa thẻ NFC lại gần mặt sau điện thoại.</string>
+    <string name="intro_title">Nhãn bạn có thể nghe</string>
+    <string name="intro_step_read">Đưa thẻ lại gần mặt sau điện thoại. Nội dung sẽ được đọc to và ghi chú giọng nói sẽ được phát.</string>
+    <string name="intro_step_write">Để dán nhãn cho một vật, hãy đưa nhãn dán NFC trống lại gần điện thoại, rồi nhập, đọc chính tả hoặc ghi âm nội dung cần nói.</string>
+    <string name="intro_step_other">Thẻ của ứng dụng khác, như liên kết web hoặc Wi‑Fi, sẽ được mô tả trước. Không có gì mở ra cho đến khi bạn nhấn nút.</string>
+    <string name="intro_tags_hint">Hoạt động với nhãn dán, thẻ và móc khóa NFC tiêu chuẩn như NTAG213, NTAG215 và NTAG216.</string>
+    <string name="btn_demo">Nghe ví dụ</string>
+    <string name="demo_text">Thẻ ví dụ: Hạt cà phê. Mở vào thứ Hai.</string>
     <string name="status_nfc_off">NFC đang tắt.</string>
     <string name="btn_nfc_settings">Bật NFC</string>
     <string name="status_tag_read">Đưa thẻ khác lại gần điện thoại để đọc.</string>

@@ -5,6 +5,13 @@
     <string name="desc_voice_input">بول کر لکھیں</string>
     <string name="date_prefix">لکھنے کا وقت: %s</string>
     <string name="status_scan_nfc">NFC ٹیگ کو فون کی پچھلی طرف کے قریب لائیں۔</string>
+    <string name="intro_title">لیبل جو سنے جا سکتے ہیں</string>
+    <string name="intro_step_read">ٹیگ کو فون کی پشت کے قریب لائیں۔ اس کا متن بلند آواز سے پڑھا جائے گا اور صوتی نوٹ چلایا جائے گا۔</string>
+    <string name="intro_step_write">کسی چیز پر لیبل لگانے کے لیے خالی NFC اسٹیکر فون کے قریب لائیں، پھر جو اسے کہنا ہے وہ ٹائپ کریں، بول کر لکھوائیں یا ریکارڈ کریں۔</string>
+    <string name="intro_step_other">دوسری ایپس کے ٹیگ، جیسے ویب لنک یا وائی فائی، پہلے بیان کیے جاتے ہیں۔ جب تک آپ بٹن نہ دبائیں، کچھ نہیں کھلتا۔</string>
+    <string name="intro_tags_hint">NTAG213، NTAG215 اور NTAG216 جیسے عام NFC اسٹیکرز، کارڈز اور چابی کے چھلوں کے ساتھ کام کرتا ہے۔</string>
+    <string name="btn_demo">ایک مثال سنیں</string>
+    <string name="demo_text">مثالی ٹیگ: کافی کے بیج۔ پیر کو کھولے گئے۔</string>
     <string name="status_nfc_off">NFC بند ہے۔</string>
     <string name="btn_nfc_settings">NFC آن کریں</string>
     <string name="status_tag_read">دوسرا ٹیگ پڑھنے کے لیے اسے فون کے قریب لائیں۔</string>

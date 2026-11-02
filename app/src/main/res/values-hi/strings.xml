@@ -5,6 +5,13 @@
     <string name="desc_voice_input">बोलकर लिखें</string>
     <string name="date_prefix">लिखने का समय: %s</string>
     <string name="status_scan_nfc">NFC टैग को फ़ोन के पिछले हिस्से के पास लाएं।</string>
+    <string name="intro_title">सुनाई देने वाले लेबल</string>
+    <string name="intro_step_read">टैग को फ़ोन के पीछे लगाएँ। उसका टेक्स्ट पढ़कर सुनाया जाएगा और वॉइस नोट चलेगा।</string>
+    <string name="intro_step_write">किसी चीज़ पर लेबल लगाने के लिए खाली NFC स्टिकर फ़ोन से लगाएँ, फिर उसे क्या कहना है वह टाइप करें, बोलकर लिखवाएँ या रिकॉर्ड करें।</string>
+    <string name="intro_step_other">दूसरे ऐप के टैग, जैसे वेब लिंक या वाई-फ़ाई, पहले बताए जाते हैं। जब तक आप बटन न दबाएँ, कुछ नहीं खुलता।</string>
+    <string name="intro_tags_hint">NTAG213, NTAG215 और NTAG216 जैसे सामान्य NFC स्टिकर, कार्ड और की-चेन के साथ काम करता है।</string>
+    <string name="btn_demo">एक उदाहरण सुनें</string>
+    <string name="demo_text">उदाहरण टैग: कॉफ़ी बीन्स। सोमवार को खोला।</string>
     <string name="status_nfc_off">NFC बंद है।</string>
     <string name="btn_nfc_settings">NFC चालू करें</string>
     <string name="status_tag_read">दूसरा टैग पढ़ने के लिए उसे फ़ोन के पास लाएं।</string>

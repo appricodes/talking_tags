@@ -8,6 +8,13 @@
 
     <!-- Reading -->
     <string name="status_scan_nfc">Hold an NFC tag near the back of your phone.</string>
+    <string name="intro_title">Labels you can hear</string>
+    <string name="intro_step_read">Hold a tag to the back of your phone. Its text is read aloud and its voice note is played.</string>
+    <string name="intro_step_write">To label something, hold an empty NFC sticker to the phone, then type, dictate or record what it should say.</string>
+    <string name="intro_step_other">Tags from other apps, such as web links or Wi‑Fi, are described first. Nothing opens unless you tap a button.</string>
+    <string name="intro_tags_hint">Works with standard NFC stickers, cards and key fobs, such as NTAG213, NTAG215 and NTAG216.</string>
+    <string name="btn_demo">Hear an example</string>
+    <string name="demo_text">Example tag: Coffee beans. Opened on Monday.</string>
     <string name="status_nfc_off">NFC is turned off.</string>
     <string name="btn_nfc_settings">Turn on NFC</string>
     <string name="status_tag_read">Hold another tag near the phone to read it.</string>

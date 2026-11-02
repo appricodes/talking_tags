@@ -5,6 +5,13 @@
     <string name="desc_voice_input">Dicter le texte</string>
     <string name="date_prefix">Écrit le : %s</string>
     <string name="status_scan_nfc">Approchez un tag NFC du dos de votre téléphone.</string>
+    <string name="intro_title">Des étiquettes qui parlent</string>
+    <string name="intro_step_read">Approchez un tag du dos du téléphone. Son texte est lu à voix haute et son mémo vocal est lu.</string>
+    <string name="intro_step_write">Pour étiqueter un objet, approchez un autocollant NFC vierge du téléphone, puis tapez, dictez ou enregistrez ce qu’il doit dire.</string>
+    <string name="intro_step_other">Les tags d’autres applis, comme les liens web ou le Wi‑Fi, sont d’abord décrits. Rien ne s’ouvre sans que vous touchiez un bouton.</string>
+    <string name="intro_tags_hint">Fonctionne avec les autocollants, cartes et porte-clés NFC standard, comme NTAG213, NTAG215 et NTAG216.</string>
+    <string name="btn_demo">Écouter un exemple</string>
+    <string name="demo_text">Tag d’exemple : grains de café. Ouvert lundi.</string>
     <string name="status_nfc_off">Le NFC est désactivé.</string>
     <string name="btn_nfc_settings">Activer le NFC</string>
     <string name="status_tag_read">Approchez un autre tag du téléphone pour le lire.</string>

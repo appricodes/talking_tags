@@ -8,6 +8,13 @@
 
     <!-- خواندن -->
     <string name="status_scan_nfc">یک تگ NFC را نزدیک پشت گوشی نگه دارید.</string>
+    <string name="intro_title">برچسب‌هایی که می‌شود شنید</string>
+    <string name="intro_step_read">تگ را به پشت گوشی نزدیک کنید. متن آن خوانده و یادداشت صوتی‌اش پخش می‌شود.</string>
+    <string name="intro_step_write">برای برچسب زدن، یک استیکر NFC خالی را به گوشی نزدیک کنید و بعد متن را بنویسید، دیکته کنید یا صدا ضبط کنید.</string>
+    <string name="intro_step_other">تگ‌های اپ‌های دیگر، مثل لینک وب یا وای‌فای، اول توضیح داده می‌شوند. تا دکمه‌ای را نزنید چیزی باز نمی‌شود.</string>
+    <string name="intro_tags_hint">با استیکرها، کارت‌ها و جاکلیدی‌های استاندارد NFC مثل NTAG213، NTAG215 و NTAG216 کار می‌کند.</string>
+    <string name="btn_demo">شنیدن یک نمونه</string>
+    <string name="demo_text">تگ نمونه: دانه قهوه. باز شده در روز دوشنبه.</string>
     <string name="status_nfc_off">NFC خاموش است.</string>
     <string name="btn_nfc_settings">روشن کردن NFC</string>
     <string name="status_tag_read">برای خواندن تگ دیگر، آن را نزدیک گوشی نگه دارید.</string>

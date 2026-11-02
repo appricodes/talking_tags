@@ -5,6 +5,13 @@
     <string name="desc_voice_input">음성으로 입력</string>
     <string name="date_prefix">작성 일시: %s</string>
     <string name="status_scan_nfc">NFC 태그를 휴대전화 뒷면에 가까이 대세요.</string>
+    <string name="intro_title">들을 수 있는 라벨</string>
+    <string name="intro_step_read">태그를 휴대전화 뒷면에 대면 텍스트를 읽어 주고 음성 메모를 재생합니다.</string>
+    <string name="intro_step_write">물건에 라벨을 붙이려면 빈 NFC 스티커를 휴대전화에 대고, 말할 내용을 입력하거나 받아쓰기하거나 녹음하세요.</string>
+    <string name="intro_step_other">웹 링크나 Wi‑Fi 같은 다른 앱의 태그는 먼저 설명됩니다. 버튼을 누르기 전에는 아무것도 열리지 않습니다.</string>
+    <string name="intro_tags_hint">NTAG213, NTAG215, NTAG216 같은 일반 NFC 스티커, 카드, 키링에서 작동합니다.</string>
+    <string name="btn_demo">예시 듣기</string>
+    <string name="demo_text">예시 태그: 원두커피. 월요일에 개봉.</string>
     <string name="status_nfc_off">NFC가 꺼져 있습니다.</string>
     <string name="btn_nfc_settings">NFC 켜기</string>
     <string name="status_tag_read">다른 태그를 읽으려면 휴대전화에 가까이 대세요.</string>

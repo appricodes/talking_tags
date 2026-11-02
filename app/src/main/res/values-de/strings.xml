@@ -5,6 +5,13 @@
     <string name="desc_voice_input">Text diktieren</string>
     <string name="date_prefix">Geschrieben: %s</string>
     <string name="status_scan_nfc">Halten Sie ein NFC-Tag an die Rückseite Ihres Telefons.</string>
+    <string name="intro_title">Etiketten zum Hören</string>
+    <string name="intro_step_read">Halte einen Tag an die Rückseite des Telefons. Sein Text wird vorgelesen und seine Sprachnotiz abgespielt.</string>
+    <string name="intro_step_write">Um etwas zu beschriften, halte einen leeren NFC-Sticker ans Telefon und tippe, diktiere oder sprich ein, was er sagen soll.</string>
+    <string name="intro_step_other">Tags anderer Apps, etwa Weblinks oder WLAN, werden zuerst beschrieben. Nichts wird geöffnet, bevor du auf eine Schaltfläche tippst.</string>
+    <string name="intro_tags_hint">Funktioniert mit üblichen NFC-Stickern, -Karten und -Schlüsselanhängern, z. B. NTAG213, NTAG215 und NTAG216.</string>
+    <string name="btn_demo">Beispiel anhören</string>
+    <string name="demo_text">Beispiel-Tag: Kaffeebohnen. Geöffnet am Montag.</string>
     <string name="status_nfc_off">NFC ist ausgeschaltet.</string>
     <string name="btn_nfc_settings">NFC einschalten</string>
     <string name="status_tag_read">Halten Sie ein anderes Tag ans Telefon, um es zu lesen.</string>

@@ -21,8 +21,8 @@ android {
         applicationId = "com.appricodes.voicetag"
         minSdk = 26
         targetSdk = 36
-        versionCode = 102
-        versionName = "1.2"
+        versionCode = 103
+        versionName = "1.2.1"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }

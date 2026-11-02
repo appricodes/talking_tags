@@ -5,6 +5,13 @@
     <string name="desc_voice_input">Nadiktovat text</string>
     <string name="date_prefix">Zapsáno: %s</string>
     <string name="status_scan_nfc">Přiložte NFC štítek k zadní straně telefonu.</string>
+    <string name="intro_title">Štítky, které uslyšíte</string>
+    <string name="intro_step_read">Přiložte štítek k zadní straně telefonu. Jeho text se přečte nahlas a přehraje se hlasová poznámka.</string>
+    <string name="intro_step_write">Chcete-li něco označit, přiložte k telefonu prázdnou NFC nálepku a napište, nadiktujte nebo nahrajte, co má říkat.</string>
+    <string name="intro_step_other">Štítky z jiných aplikací, například webové odkazy nebo Wi‑Fi, se nejprve popíšou. Nic se neotevře, dokud neklepnete na tlačítko.</string>
+    <string name="intro_tags_hint">Funguje se standardními NFC nálepkami, kartami a přívěsky, například NTAG213, NTAG215 a NTAG216.</string>
+    <string name="btn_demo">Poslechnout ukázku</string>
+    <string name="demo_text">Ukázkový štítek: zrnková káva. Otevřeno v pondělí.</string>
     <string name="status_nfc_off">NFC je vypnuté.</string>
     <string name="btn_nfc_settings">Zapnout NFC</string>
     <string name="status_tag_read">Chcete-li přečíst jiný štítek, přiložte ho k telefonu.</string>

@@ -5,6 +5,13 @@
     <string name="desc_voice_input">Tekst dicteren</string>
     <string name="date_prefix">Geschreven: %s</string>
     <string name="status_scan_nfc">Houd een NFC-tag bij de achterkant van je telefoon.</string>
+    <string name="intro_title">Labels die je kunt horen</string>
+    <string name="intro_step_read">Houd een tag bij de achterkant van je telefoon. De tekst wordt voorgelezen en de spraakmemo afgespeeld.</string>
+    <string name="intro_step_write">Om iets te labelen, houd je een lege NFC-sticker bij de telefoon en typ, dicteer of neem je op wat hij moet zeggen.</string>
+    <string name="intro_step_other">Tags van andere apps, zoals weblinks of wifi, worden eerst beschreven. Er opent niets voordat je op een knop tikt.</string>
+    <string name="intro_tags_hint">Werkt met gewone NFC-stickers, -kaarten en -sleutelhangers, zoals NTAG213, NTAG215 en NTAG216.</string>
+    <string name="btn_demo">Voorbeeld beluisteren</string>
+    <string name="demo_text">Voorbeeldtag: koffiebonen. Geopend op maandag.</string>
     <string name="status_nfc_off">NFC staat uit.</string>
     <string name="btn_nfc_settings">NFC aanzetten</string>
     <string name="status_tag_read">Houd een andere tag bij de telefoon om die te lezen.</string>
