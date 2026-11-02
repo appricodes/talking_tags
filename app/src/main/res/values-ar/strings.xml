@@ -129,6 +129,8 @@
     <string name="settings_language_label">لغة التعرّف على الكلام</string>
     <string name="lang_auto_detect">اكتشاف تلقائي (افتراضي النظام)</string>
     <string name="settings_autoplay">تشغيل الملاحظات الصوتية تلقائيًا</string>
+    <string name="settings_stop_on_silence">إيقاف التسجيل عند الصمت</string>
+    <string name="settings_stop_on_silence_summary">ينتهي التسجيل بعد 3 ثوانٍ دون كلام</string>
     <string name="settings_vibrate">الاهتزاز عند النجاح والأخطاء</string>
     <string name="settings_category_voice_notes">الملاحظات الصوتية</string>
     <string name="settings_voice_notes_privacy">تُخزّن داخل التطبيق فقط ولا تُضمَّن أبدًا في النسخ الاحتياطية السحابية. صدّر نسخة للاحتفاظ بها.</string>

@@ -129,6 +129,8 @@
     <string name="settings_language_label">Taal vir spraakherkenning</string>
     <string name="lang_auto_detect">Outomaties (stelselverstek)</string>
     <string name="settings_autoplay">Speel stemnotas outomaties</string>
+    <string name="settings_stop_on_silence">Stop opname by stilte</string>
+    <string name="settings_stop_on_silence_summary">Die opname eindig ná 3 sekondes sonder spraak</string>
     <string name="settings_vibrate">Vibreer by sukses en foute</string>
     <string name="settings_category_voice_notes">Stemnotas</string>
     <string name="settings_voice_notes_privacy">Word slegs in die app gestoor en nooit by wolkrugsteun ingesluit nie. Voer ’n kopie uit om hulle veilig te hou.</string>

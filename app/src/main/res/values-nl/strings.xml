@@ -129,6 +129,8 @@
     <string name="settings_language_label">Taal voor spraakherkenning</string>
     <string name="lang_auto_detect">Automatisch (systeemstandaard)</string>
     <string name="settings_autoplay">Spraakmemo\'s automatisch afspelen</string>
+    <string name="settings_stop_on_silence">Opname stoppen bij stilte</string>
+    <string name="settings_stop_on_silence_summary">De opname stopt na 3 seconden zonder spraak</string>
     <string name="settings_vibrate">Trillen bij succes en fouten</string>
     <string name="settings_category_voice_notes">Spraakmemo\'s</string>
     <string name="settings_voice_notes_privacy">Worden alleen in de app bewaard en nooit opgenomen in cloudback-ups. Exporteer een kopie om ze veilig te bewaren.</string>

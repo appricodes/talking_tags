@@ -129,6 +129,8 @@
     <string name="settings_language_label">ภาษาสำหรับการจดจำเสียงพูด</string>
     <string name="lang_auto_detect">ตรวจหาอัตโนมัติ (ค่าเริ่มต้นของระบบ)</string>
     <string name="settings_autoplay">เล่นบันทึกเสียงโดยอัตโนมัติ</string>
+    <string name="settings_stop_on_silence">หยุดบันทึกเมื่อเงียบ</string>
+    <string name="settings_stop_on_silence_summary">การบันทึกจะหยุดเมื่อไม่มีเสียงพูด 3 วินาที</string>
     <string name="settings_vibrate">สั่นเมื่อสำเร็จและเมื่อเกิดข้อผิดพลาด</string>
     <string name="settings_category_voice_notes">บันทึกเสียง</string>
     <string name="settings_voice_notes_privacy">เก็บไว้ในแอปเท่านั้น และไม่รวมอยู่ในข้อมูลสำรองบนคลาวด์ โปรดส่งออกสำเนาไว้เพื่อไม่ให้สูญหาย</string>

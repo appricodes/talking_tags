@@ -38,6 +38,7 @@ public class SettingsFragment extends PreferenceFragmentCompat {
 	private static final String TAG = "VoiceTag";
 	static final String PREF_LANGUAGE = "language_code";
 	static final String PREF_AUTOPLAY = "autoplay_voice";
+	static final String PREF_STOP_ON_SILENCE = "stop_on_silence";
 	static final String LANGUAGE_AUTO = "auto";
 	private static final String PREF_VOICE_NOTES_INFO = "voice_notes_info";
 	private static final String PREF_EXPORT = "export_voice_notes";

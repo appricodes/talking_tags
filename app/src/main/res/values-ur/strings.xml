@@ -129,6 +129,8 @@
     <string name="settings_language_label">آواز پہچاننے کی زبان</string>
     <string name="lang_auto_detect">خودکار (سسٹم ڈیفالٹ)</string>
     <string name="settings_autoplay">صوتی نوٹ خودکار طور پر چلائیں</string>
+    <string name="settings_stop_on_silence">خاموشی پر ریکارڈنگ روکیں</string>
+    <string name="settings_stop_on_silence_summary">3 سیکنڈ تک نہ بولنے پر ریکارڈنگ ختم ہو جاتی ہے</string>
     <string name="settings_vibrate">کامیابی اور خرابی پر وائبریٹ کریں</string>
     <string name="settings_category_voice_notes">صوتی نوٹ</string>
     <string name="settings_voice_notes_privacy">صرف ایپ کے اندر محفوظ ہوتے ہیں اور کبھی کلاؤڈ بیک اپ میں شامل نہیں ہوتے۔ انہیں محفوظ رکھنے کے لیے ایک کاپی ایکسپورٹ کریں۔</string>

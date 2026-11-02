@@ -129,6 +129,8 @@
     <string name="settings_language_label">Język rozpoznawania mowy</string>
     <string name="lang_auto_detect">Wykrywanie automatyczne (domyślny systemu)</string>
     <string name="settings_autoplay">Automatycznie odtwarzaj notatki głosowe</string>
+    <string name="settings_stop_on_silence">Zatrzymuj nagrywanie przy ciszy</string>
+    <string name="settings_stop_on_silence_summary">Nagrywanie kończy się po 3 sekundach bez mowy</string>
     <string name="settings_vibrate">Wibruj przy sukcesie i błędach</string>
     <string name="settings_category_voice_notes">Notatki głosowe</string>
     <string name="settings_voice_notes_privacy">Przechowywane tylko w aplikacji i nigdy nie trafiają do kopii zapasowych w chmurze. Wyeksportuj kopię, aby ich nie stracić.</string>

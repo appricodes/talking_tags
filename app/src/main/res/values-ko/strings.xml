@@ -129,6 +129,8 @@
     <string name="settings_language_label">음성 인식 언어</string>
     <string name="lang_auto_detect">자동 감지(시스템 기본값)</string>
     <string name="settings_autoplay">음성 메모 자동 재생</string>
+    <string name="settings_stop_on_silence">무음 시 녹음 중지</string>
+    <string name="settings_stop_on_silence_summary">3초 동안 말이 없으면 녹음이 끝납니다</string>
     <string name="settings_vibrate">성공 및 오류 시 진동</string>
     <string name="settings_category_voice_notes">음성 메모</string>
     <string name="settings_voice_notes_privacy">앱 내부에만 저장되며 클라우드 백업에는 포함되지 않습니다. 잃어버리지 않도록 사본을 내보내세요.</string>

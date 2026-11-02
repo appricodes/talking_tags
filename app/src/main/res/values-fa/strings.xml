@@ -139,6 +139,8 @@
     <string name="settings_language_label">زبان تشخیص گفتار</string>
     <string name="lang_auto_detect">تشخیص خودکار (پیش‌فرض سیستم)</string>
     <string name="settings_autoplay">پخش خودکار یادداشت‌های صوتی</string>
+    <string name="settings_stop_on_silence">توقف ضبط هنگام سکوت</string>
+    <string name="settings_stop_on_silence_summary">اگر ۳ ثانیه صحبت نکنید، ضبط تمام می‌شود</string>
     <string name="settings_vibrate">لرزش هنگام موفقیت و خطا</string>
     <string name="settings_category_voice_notes">یادداشت‌های صوتی</string>
     <string name="settings_voice_notes_privacy">فقط داخل برنامه نگهداری می‌شوند و هرگز در پشتیبان ابری قرار نمی‌گیرند. برای حفظ آن‌ها یک نسخه خروجی بگیرید.</string>

@@ -129,6 +129,8 @@
     <string name="settings_language_label">Мова розпізнавання мовлення</string>
     <string name="lang_auto_detect">Автовизначення (мова системи)</string>
     <string name="settings_autoplay">Автоматично відтворювати голосові нотатки</string>
+    <string name="settings_stop_on_silence">Зупиняти запис під час тиші</string>
+    <string name="settings_stop_on_silence_summary">Запис завершується після 3 секунд без мовлення</string>
     <string name="settings_vibrate">Вібрація при успіху та помилках</string>
     <string name="settings_category_voice_notes">Голосові нотатки</string>
     <string name="settings_voice_notes_privacy">Зберігаються лише в застосунку й ніколи не потрапляють у хмарні резервні копії. Експортуйте копію, щоб їх не втратити.</string>

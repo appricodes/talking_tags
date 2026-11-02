@@ -129,6 +129,8 @@
     <string name="settings_language_label">Konuşma tanıma dili</string>
     <string name="lang_auto_detect">Otomatik algıla (sistem varsayılanı)</string>
     <string name="settings_autoplay">Sesli notları otomatik oynat</string>
+    <string name="settings_stop_on_silence">Sessizlikte kaydı durdur</string>
+    <string name="settings_stop_on_silence_summary">Konuşma olmadan 3 saniye geçince kayıt biter</string>
     <string name="settings_vibrate">Başarı ve hatalarda titreşim</string>
     <string name="settings_category_voice_notes">Sesli notlar</string>
     <string name="settings_voice_notes_privacy">Yalnızca uygulamanın içinde saklanır ve asla bulut yedeklerine eklenmez. Korumak için bir kopyasını dışa aktarın.</string>

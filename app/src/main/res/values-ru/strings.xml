@@ -129,6 +129,8 @@
     <string name="settings_language_label">Язык распознавания речи</string>
     <string name="lang_auto_detect">Автоопределение (системный язык)</string>
     <string name="settings_autoplay">Автоматически воспроизводить голосовые заметки</string>
+    <string name="settings_stop_on_silence">Останавливать запись при тишине</string>
+    <string name="settings_stop_on_silence_summary">Запись завершается после 3 секунд без речи</string>
     <string name="settings_vibrate">Вибрация при успехе и ошибках</string>
     <string name="settings_category_voice_notes">Голосовые заметки</string>
     <string name="settings_voice_notes_privacy">Хранятся только в приложении и никогда не попадают в облачные резервные копии. Экспортируйте копию, чтобы не потерять их.</string>

@@ -129,6 +129,8 @@
     <string name="settings_language_label">Langue de la reconnaissance vocale</string>
     <string name="lang_auto_detect">Détection automatique (par défaut du système)</string>
     <string name="settings_autoplay">Lire automatiquement les notes vocales</string>
+    <string name="settings_stop_on_silence">Arrêter l’enregistrement en cas de silence</string>
+    <string name="settings_stop_on_silence_summary">L’enregistrement s’arrête après 3 secondes sans parole</string>
     <string name="settings_vibrate">Vibrer en cas de succès ou d\'erreur</string>
     <string name="settings_category_voice_notes">Notes vocales</string>
     <string name="settings_voice_notes_privacy">Stockées uniquement dans l\'application et jamais incluses dans les sauvegardes cloud. Exportez une copie pour les conserver.</string>

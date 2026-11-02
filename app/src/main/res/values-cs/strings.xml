@@ -129,6 +129,8 @@
     <string name="settings_language_label">Jazyk rozpoznávání řeči</string>
     <string name="lang_auto_detect">Automaticky (výchozí jazyk systému)</string>
     <string name="settings_autoplay">Automaticky přehrávat hlasové poznámky</string>
+    <string name="settings_stop_on_silence">Ukončit nahrávání při tichu</string>
+    <string name="settings_stop_on_silence_summary">Nahrávání skončí po 3 sekundách bez řeči</string>
     <string name="settings_vibrate">Vibrovat při úspěchu a chybách</string>
     <string name="settings_category_voice_notes">Hlasové poznámky</string>
     <string name="settings_voice_notes_privacy">Ukládají se jen v aplikaci a nikdy nejsou součástí cloudových záloh. Exportujte si kopii, abyste o ně nepřišli.</string>

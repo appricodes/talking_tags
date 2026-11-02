@@ -129,6 +129,8 @@
     <string name="settings_language_label">音声認識の言語</string>
     <string name="lang_auto_detect">自動検出（システムの既定）</string>
     <string name="settings_autoplay">ボイスメモを自動再生</string>
+    <string name="settings_stop_on_silence">無音で録音を停止</string>
+    <string name="settings_stop_on_silence_summary">話さない状態が 3 秒続くと録音が終了します</string>
     <string name="settings_vibrate">成功・エラー時にバイブレーション</string>
     <string name="settings_category_voice_notes">ボイスメモ</string>
     <string name="settings_voice_notes_privacy">アプリ内にのみ保存され、クラウドバックアップには含まれません。失わないようにコピーをエクスポートしてください。</string>

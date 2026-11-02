@@ -129,6 +129,8 @@
     <string name="settings_language_label">Ngôn ngữ nhận dạng giọng nói</string>
     <string name="lang_auto_detect">Tự động phát hiện (mặc định hệ thống)</string>
     <string name="settings_autoplay">Tự động phát ghi chú thoại</string>
+    <string name="settings_stop_on_silence">Dừng ghi âm khi im lặng</string>
+    <string name="settings_stop_on_silence_summary">Ghi âm kết thúc sau 3 giây không có tiếng nói</string>
     <string name="settings_vibrate">Rung khi thành công và khi lỗi</string>
     <string name="settings_category_voice_notes">Ghi chú thoại</string>
     <string name="settings_voice_notes_privacy">Chỉ lưu trong ứng dụng và không bao giờ được đưa vào bản sao lưu đám mây. Hãy xuất một bản sao để giữ an toàn.</string>

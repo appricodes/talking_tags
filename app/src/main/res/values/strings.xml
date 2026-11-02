@@ -139,6 +139,8 @@
     <string name="settings_language_label">Voice Recognition Language</string>
     <string name="lang_auto_detect">Auto Detect (System Default)</string>
     <string name="settings_autoplay">Play voice notes automatically</string>
+    <string name="settings_stop_on_silence">Stop recording on silence</string>
+    <string name="settings_stop_on_silence_summary">Recording ends after 3 seconds without speech</string>
     <string name="settings_vibrate">Vibrate on success and errors</string>
     <string name="settings_category_voice_notes">Voice notes</string>
     <string name="settings_voice_notes_privacy">Stored only inside the app and never included in cloud backups. Export a copy to keep them safe.</string>

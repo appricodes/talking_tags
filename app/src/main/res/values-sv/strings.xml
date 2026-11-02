@@ -129,6 +129,8 @@
     <string name="settings_language_label">Språk för taligenkänning</string>
     <string name="lang_auto_detect">Automatiskt (systemstandard)</string>
     <string name="settings_autoplay">Spela upp röstmeddelanden automatiskt</string>
+    <string name="settings_stop_on_silence">Stoppa inspelningen vid tystnad</string>
+    <string name="settings_stop_on_silence_summary">Inspelningen slutar efter 3 sekunder utan tal</string>
     <string name="settings_vibrate">Vibrera vid lyckade åtgärder och fel</string>
     <string name="settings_category_voice_notes">Röstmeddelanden</string>
     <string name="settings_voice_notes_privacy">Sparas bara i appen och ingår aldrig i molnsäkerhetskopior. Exportera en kopia för att inte förlora dem.</string>

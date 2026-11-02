@@ -40,6 +40,13 @@
             app:selectable="false"
             app:summary="@string/settings_voice_notes_privacy" />
 
+        <SwitchPreferenceCompat
+            app:defaultValue="true"
+            app:iconSpaceReserved="false"
+            app:key="stop_on_silence"
+            app:summary="@string/settings_stop_on_silence_summary"
+            app:title="@string/settings_stop_on_silence" />
+
         <Preference
             app:iconSpaceReserved="false"
             app:key="export_voice_notes"

@@ -129,6 +129,8 @@
     <string name="settings_language_label">Sprache der Spracherkennung</string>
     <string name="lang_auto_detect">Automatisch (Systemstandard)</string>
     <string name="settings_autoplay">Sprachnotizen automatisch abspielen</string>
+    <string name="settings_stop_on_silence">Aufnahme bei Stille beenden</string>
+    <string name="settings_stop_on_silence_summary">Die Aufnahme endet nach 3 Sekunden ohne Sprache</string>
     <string name="settings_vibrate">Bei Erfolg und Fehlern vibrieren</string>
     <string name="settings_category_voice_notes">Sprachnotizen</string>
     <string name="settings_voice_notes_privacy">Werden nur in der App gespeichert und nie in Cloud-Sicherungen aufgenommen. Exportieren Sie eine Kopie, um sie zu sichern.</string>

@@ -129,6 +129,8 @@
     <string name="settings_language_label">Idioma do reconhecimento de voz</string>
     <string name="lang_auto_detect">Detecção automática (padrão do sistema)</string>
     <string name="settings_autoplay">Reproduzir notas de voz automaticamente</string>
+    <string name="settings_stop_on_silence">Parar a gravação em silêncio</string>
+    <string name="settings_stop_on_silence_summary">A gravação termina após 3 segundos sem fala</string>
     <string name="settings_vibrate">Vibrar em acertos e erros</string>
     <string name="settings_category_voice_notes">Notas de voz</string>
     <string name="settings_voice_notes_privacy">Armazenadas apenas no app e nunca incluídas em backups na nuvem. Exporte uma cópia para guardá-las.</string>

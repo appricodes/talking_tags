@@ -129,6 +129,8 @@
     <string name="settings_language_label">Bahasa pengenalan ucapan</string>
     <string name="lang_auto_detect">Deteksi otomatis (default sistem)</string>
     <string name="settings_autoplay">Putar catatan suara secara otomatis</string>
+    <string name="settings_stop_on_silence">Hentikan rekaman saat hening</string>
+    <string name="settings_stop_on_silence_summary">Rekaman berakhir setelah 3 detik tanpa suara bicara</string>
     <string name="settings_vibrate">Bergetar saat berhasil dan saat terjadi error</string>
     <string name="settings_category_voice_notes">Catatan suara</string>
     <string name="settings_voice_notes_privacy">Hanya disimpan di dalam aplikasi dan tidak pernah disertakan dalam cadangan cloud. Ekspor salinannya agar tetap aman.</string>

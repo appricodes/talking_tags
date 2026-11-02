@@ -129,6 +129,8 @@
     <string name="settings_language_label">ভয়েস শনাক্তকরণের ভাষা</string>
     <string name="lang_auto_detect">স্বয়ংক্রিয় (সিস্টেম ডিফল্ট)</string>
     <string name="settings_autoplay">ভয়েস নোট স্বয়ংক্রিয়ভাবে চালান</string>
+    <string name="settings_stop_on_silence">নীরবতায় রেকর্ডিং থামান</string>
+    <string name="settings_stop_on_silence_summary">৩ সেকেন্ড কথা না বললে রেকর্ডিং শেষ হয়</string>
     <string name="settings_vibrate">সফল হলে ও ত্রুটি হলে কম্পন</string>
     <string name="settings_category_voice_notes">ভয়েস নোট</string>
     <string name="settings_voice_notes_privacy">শুধু অ্যাপের ভেতরে রাখা হয় এবং কখনো ক্লাউড ব্যাকআপে যায় না। নিরাপদ রাখতে একটি কপি এক্সপোর্ট করুন।</string>

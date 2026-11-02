@@ -88,11 +88,17 @@ public class MainActivity extends AppCompatActivity implements NfcAdapter.Reader
 	private boolean removeVoice;
 	private boolean eraseVoiceToo;
 	private Runnable pendingPlayback;
+	private boolean stopOnSilence;
+	private static final long SILENCE_STOP_MS = 3000;
 
 	private final Runnable recordingTicker = new Runnable() {
 		@Override
 		public void run() {
 			if (!recorder.isRecording()) return;
+			if (stopOnSilence && recorder.silenceAfterSpeechMillis() >= SILENCE_STOP_MS) {
+				stopRecording();
+				return;
+			}
 			updateVoiceUi();
 			handler.postDelayed(this, 500);
 		}
@@ -556,6 +562,8 @@ public class MainActivity extends AppCompatActivity implements NfcAdapter.Reader
 			say(getString(R.string.error_recording), true);
 			return;
 		}
+		stopOnSilence = PreferenceManager.getDefaultSharedPreferences(this)
+				.getBoolean(SettingsFragment.PREF_STOP_ON_SILENCE, true);
 		// Vibrate only: speech would end up in the recording.
 		feedback.vibrateTick();
 		getWindow().addFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON);

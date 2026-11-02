@@ -129,6 +129,8 @@
     <string name="settings_language_label">语音识别语言</string>
     <string name="lang_auto_detect">自动检测（系统默认）</string>
     <string name="settings_autoplay">自动播放语音备注</string>
+    <string name="settings_stop_on_silence">静音时停止录音</string>
+    <string name="settings_stop_on_silence_summary">3 秒内没有说话时，录音将结束</string>
     <string name="settings_vibrate">成功和出错时振动</string>
     <string name="settings_category_voice_notes">语音备注</string>
     <string name="settings_voice_notes_privacy">仅保存在应用内，绝不会包含在云备份中。请导出一份副本以免丢失。</string>
