@@ -10,8 +10,6 @@
     <string name="intro_step_write">Щоб підписати річ, піднесіть до телефона порожню NFC-наліпку, потім введіть, продиктуйте або запишіть, що вона має казати.</string>
     <string name="intro_step_other">Мітки інших застосунків, як-от вебпосилання чи Wi‑Fi, спершу описуються. Нічого не відкриється, доки ви не торкнетеся кнопки.</string>
     <string name="intro_tags_hint">Працює зі стандартними NFC-наліпками, картками й брелоками, як-от NTAG213, NTAG215 і NTAG216.</string>
-    <string name="btn_demo">Прослухати приклад</string>
-    <string name="demo_text">Приклад мітки: кава в зернах. Відкрито в понеділок.</string>
     <string name="status_nfc_off">NFC вимкнено.</string>
     <string name="btn_nfc_settings">Увімкнути NFC</string>
     <string name="status_tag_read">Щоб прочитати іншу мітку, піднесіть її до телефона.</string>

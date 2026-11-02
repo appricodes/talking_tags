@@ -10,8 +10,6 @@
     <string name="intro_step_write">Чтобы подписать предмет, поднесите к телефону пустую NFC-наклейку, затем введите, продиктуйте или запишите, что она должна сказать.</string>
     <string name="intro_step_other">Метки других приложений, например веб-ссылки или Wi‑Fi, сначала описываются. Ничего не откроется, пока вы не нажмёте кнопку.</string>
     <string name="intro_tags_hint">Работает со стандартными NFC-наклейками, картами и брелоками, например NTAG213, NTAG215 и NTAG216.</string>
-    <string name="btn_demo">Прослушать пример</string>
-    <string name="demo_text">Пример метки: кофе в зёрнах. Открыт в понедельник.</string>
     <string name="status_nfc_off">NFC выключен.</string>
     <string name="btn_nfc_settings">Включить NFC</string>
     <string name="status_tag_read">Чтобы прочитать другую метку, поднесите её к телефону.</string>

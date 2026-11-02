@@ -10,8 +10,6 @@
     <string name="intro_step_write">要為物品加上標籤，請將空白 NFC 貼紙靠近手機，然後輸入、口述或錄下它要說的內容。</string>
     <string name="intro_step_other">其他應用程式的標籤（如網址或 Wi‑Fi）會先說明內容。在你輕觸按鈕之前，不會開啟任何東西。</string>
     <string name="intro_tags_hint">支援常見的 NFC 貼紙、卡片和鑰匙圈，如 NTAG213、NTAG215 和 NTAG216。</string>
-    <string name="btn_demo">聽一個範例</string>
-    <string name="demo_text">範例標籤：咖啡豆。星期一開封。</string>
     <string name="status_nfc_off">NFC 已關閉。</string>
     <string name="btn_nfc_settings">開啟 NFC</string>
     <string name="status_tag_read">將另一個標籤靠近手機即可讀取。</string>

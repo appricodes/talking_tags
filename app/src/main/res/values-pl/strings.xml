@@ -10,8 +10,6 @@
     <string name="intro_step_write">Aby coś oznaczyć, przyłóż do telefonu pustą naklejkę NFC, a potem wpisz, podyktuj lub nagraj, co ma mówić.</string>
     <string name="intro_step_other">Tagi z innych aplikacji, np. linki lub Wi‑Fi, są najpierw opisywane. Nic się nie otworzy, dopóki nie dotkniesz przycisku.</string>
     <string name="intro_tags_hint">Działa ze standardowymi naklejkami, kartami i brelokami NFC, np. NTAG213, NTAG215 i NTAG216.</string>
-    <string name="btn_demo">Posłuchaj przykładu</string>
-    <string name="demo_text">Przykładowy tag: kawa ziarnista. Otwarta w poniedziałek.</string>
     <string name="status_nfc_off">NFC jest wyłączone.</string>
     <string name="btn_nfc_settings">Włącz NFC</string>
     <string name="status_tag_read">Przyłóż inny tag do telefonu, aby go odczytać.</string>

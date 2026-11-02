@@ -10,8 +10,6 @@
     <string name="intro_step_write">Para etiquetar algo, aproxime um adesivo NFC vazio do telefone e digite, dite ou grave o que ele deve dizer.</string>
     <string name="intro_step_other">Etiquetas de outros apps, como links da web ou Wi‑Fi, são descritas primeiro. Nada abre até você tocar num botão.</string>
     <string name="intro_tags_hint">Funciona com adesivos, cartões e chaveiros NFC padrão, como NTAG213, NTAG215 e NTAG216.</string>
-    <string name="btn_demo">Ouvir um exemplo</string>
-    <string name="demo_text">Etiqueta de exemplo: café em grão. Aberto na segunda-feira.</string>
     <string name="status_nfc_off">O NFC está desativado.</string>
     <string name="btn_nfc_settings">Ativar NFC</string>
     <string name="status_tag_read">Aproxime outra etiqueta do telefone para lê-la.</string>

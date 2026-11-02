@@ -10,8 +10,6 @@
     <string name="intro_step_write">หากต้องการติดป้าย ให้แตะสติกเกอร์ NFC เปล่ากับโทรศัพท์ แล้วพิมพ์ พูด หรือบันทึกเสียงสิ่งที่ต้องการให้พูด</string>
     <string name="intro_step_other">แท็กจากแอปอื่น เช่น ลิงก์เว็บหรือ Wi‑Fi จะมีคำอธิบายก่อน ไม่มีอะไรเปิดจนกว่าคุณจะแตะปุ่ม</string>
     <string name="intro_tags_hint">ใช้ได้กับสติกเกอร์ การ์ด และพวงกุญแจ NFC มาตรฐาน เช่น NTAG213, NTAG215 และ NTAG216</string>
-    <string name="btn_demo">ฟังตัวอย่าง</string>
-    <string name="demo_text">แท็กตัวอย่าง: เมล็ดกาแฟ เปิดเมื่อวันจันทร์</string>
     <string name="status_nfc_off">NFC ปิดอยู่</string>
     <string name="btn_nfc_settings">เปิด NFC</string>
     <string name="status_tag_read">หากต้องการอ่านแท็กอื่น ให้นำมาไว้ใกล้โทรศัพท์</string>

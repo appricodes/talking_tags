@@ -10,8 +10,6 @@
     <string name="intro_step_write">Bir şeyi etiketlemek için boş bir NFC etiketini telefona yaklaştırın, ardından ne söylemesi gerektiğini yazın, dikte edin veya kaydedin.</string>
     <string name="intro_step_other">Web bağlantısı veya Wi‑Fi gibi diğer uygulamaların etiketleri önce açıklanır. Bir düğmeye dokunmadıkça hiçbir şey açılmaz.</string>
     <string name="intro_tags_hint">NTAG213, NTAG215 ve NTAG216 gibi standart NFC etiketleri, kartları ve anahtarlıklarıyla çalışır.</string>
-    <string name="btn_demo">Örnek dinle</string>
-    <string name="demo_text">Örnek etiket: Çekirdek kahve. Pazartesi açıldı.</string>
     <string name="status_nfc_off">NFC kapalı.</string>
     <string name="btn_nfc_settings">NFC\'yi aç</string>
     <string name="status_tag_read">Başka bir etiketi okumak için telefona yaklaştırın.</string>

@@ -10,8 +10,6 @@
     <string name="intro_step_write">ラベルを付けるには、空の NFC シールをスマートフォンにかざし、読み上げる内容を入力、音声入力、または録音します。</string>
     <string name="intro_step_other">ウェブリンクや Wi‑Fi など、他のアプリのタグはまず内容が説明されます。ボタンをタップするまで何も開きません。</string>
     <string name="intro_tags_hint">NTAG213、NTAG215、NTAG216 などの一般的な NFC シール、カード、キーホルダーに対応しています。</string>
-    <string name="btn_demo">例を聞く</string>
-    <string name="demo_text">サンプルタグ：コーヒー豆。月曜日に開封。</string>
     <string name="status_nfc_off">NFCがオフになっています。</string>
     <string name="btn_nfc_settings">NFCをオンにする</string>
     <string name="status_tag_read">別のタグを読み取るには、スマートフォンに近づけてください。</string>

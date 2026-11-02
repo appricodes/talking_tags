@@ -10,8 +10,6 @@
     <string name="intro_step_write">কিছুতে লেবেল দিতে একটি খালি NFC স্টিকার ফোনে ধরুন, তারপর সেটি কী বলবে তা টাইপ করুন, বলে লেখান বা রেকর্ড করুন।</string>
     <string name="intro_step_other">অন্য অ্যাপের ট্যাগ, যেমন ওয়েব লিঙ্ক বা ওয়াই-ফাই, আগে বর্ণনা করা হয়। আপনি বোতাম না চাপা পর্যন্ত কিছুই খোলে না।</string>
     <string name="intro_tags_hint">NTAG213, NTAG215 ও NTAG216-এর মতো সাধারণ NFC স্টিকার, কার্ড ও চাবির রিংয়ের সাথে কাজ করে।</string>
-    <string name="btn_demo">একটি উদাহরণ শুনুন</string>
-    <string name="demo_text">উদাহরণ ট্যাগ: কফি বিন। সোমবার খোলা হয়েছে।</string>
     <string name="status_nfc_off">NFC বন্ধ আছে।</string>
     <string name="btn_nfc_settings">NFC চালু করুন</string>
     <string name="status_tag_read">অন্য ট্যাগ পড়তে সেটি ফোনের কাছে ধরুন।</string>

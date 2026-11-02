@@ -10,8 +10,6 @@
     <string name="intro_step_write">Om iets te merk, hou ’n leë NFC-plakker teen die foon en tik, dikteer of neem op wat dit moet sê.</string>
     <string name="intro_step_other">Merkers van ander toepassings, soos webskakels of Wi‑Fi, word eers beskryf. Niks maak oop voordat jy ’n knoppie tik nie.</string>
     <string name="intro_tags_hint">Werk met standaard NFC-plakkers, -kaarte en -sleutelhouers, soos NTAG213, NTAG215 en NTAG216.</string>
-    <string name="btn_demo">Luister na ’n voorbeeld</string>
-    <string name="demo_text">Voorbeeldmerker: Koffiebone. Maandag oopgemaak.</string>
     <string name="status_nfc_off">NFC is afgeskakel.</string>
     <string name="btn_nfc_settings">Skakel NFC aan</string>
     <string name="status_tag_read">Hou ’n ander etiket naby die foon om dit te lees.</string>

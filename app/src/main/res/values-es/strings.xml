@@ -10,8 +10,6 @@
     <string name="intro_step_write">Para etiquetar algo, acerca una pegatina NFC vacía al teléfono y escribe, dicta o graba lo que debe decir.</string>
     <string name="intro_step_other">Las etiquetas de otras apps, como enlaces web o wifi, se describen primero. No se abre nada hasta que toques un botón.</string>
     <string name="intro_tags_hint">Funciona con pegatinas, tarjetas y llaveros NFC estándar, como NTAG213, NTAG215 y NTAG216.</string>
-    <string name="btn_demo">Escuchar un ejemplo</string>
-    <string name="demo_text">Etiqueta de ejemplo: café en grano. Abierto el lunes.</string>
     <string name="status_nfc_off">El NFC está desactivado.</string>
     <string name="btn_nfc_settings">Activar NFC</string>
     <string name="status_tag_read">Acerca otra etiqueta al teléfono para leerla.</string>

@@ -10,8 +10,6 @@
     <string name="intro_step_write">لتسمية شيء ما، قرّب ملصق NFC فارغًا من الهاتف، ثم اكتب أو أملِ أو سجّل ما يجب أن يقوله.</string>
     <string name="intro_step_other">تُوصف ملصقات التطبيقات الأخرى، مثل روابط الويب أو Wi‑Fi، أولًا. لا يُفتح شيء حتى تنقر على زر.</string>
     <string name="intro_tags_hint">يعمل مع ملصقات وبطاقات وميداليات NFC القياسية، مثل NTAG213 وNTAG215 وNTAG216.</string>
-    <string name="btn_demo">استمع إلى مثال</string>
-    <string name="demo_text">ملصق تجريبي: حبوب القهوة. فُتحت يوم الاثنين.</string>
     <string name="status_nfc_off">تقنية NFC متوقفة.</string>
     <string name="btn_nfc_settings">تشغيل NFC</string>
     <string name="status_tag_read">لقراءة علامة أخرى، قرّبها من الهاتف.</string>
